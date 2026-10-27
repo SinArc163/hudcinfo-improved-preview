@@ -1,0 +1,12 @@
+# 运行时生成
+hudcinfo.ini
+
+# 构建产物
+*.o
+*.obj
+*.exe
+*.pdb
+
+# 打包
+*.zip
+build/
